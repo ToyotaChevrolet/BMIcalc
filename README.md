@@ -43,4 +43,4 @@ Click the "Calculate BMI" button to compute your Body Mass Index.
 Instantly observe the calculated BMI results.
 
 ## Contributors
-Abdikarim Merey abdikarim.merey@example.com
+Abdikarim Merey abdikarim.merei@gmail.com
